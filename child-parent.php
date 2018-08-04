@@ -14,7 +14,6 @@ foreach($childrens as $value){
      } else {
      print "<a href='$url'>$title</a>";
      }
-     
 $i++;
 };
 
